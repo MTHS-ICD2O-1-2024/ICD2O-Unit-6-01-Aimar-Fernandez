@@ -7,8 +7,8 @@
 "use strict"
 
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICD2O-Unit-5-08-Aimar-Fernandez/sw.js", {
-    scope: "/ICD2O-Unit-5-08-Aimar-Fernandez/",
+  navigator.serviceWorker.register("/ICD2O-Unit-6-01-Aimar-Fernandez/sw.js", {
+    scope: "/ICD2O-Unit-6-01-Aimar-Fernandez/",
   })
 }
 
